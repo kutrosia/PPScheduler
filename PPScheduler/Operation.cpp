@@ -10,3 +10,8 @@ Operation::Operation()
 Operation::~Operation()
 {
 }
+
+void Operation::RemoveSpaces()
+{
+
+}
